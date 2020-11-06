@@ -1,0 +1,1 @@
+This is a small C project for PL2 course in NTUA university. It's an optimised VM - interpreter of a pseudo programming language. Additionally, a (copy) Garbage Collector is added.
